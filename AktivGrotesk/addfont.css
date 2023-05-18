@@ -3,29 +3,29 @@
     font-family: 'AktivGrotesk Regular';
     font-style: normal;
     font-weight: normal;
-    src: url("https://raw.githubusercontent.com/syedhussainabbaszaidi/Font/main/AktivGrotesk-Regular.woff2") format("woff2");
+    src: url("https://raw.githubusercontent.com/syedhussainabbaszaidi/Font/main/AktivGrotesk/AktivGrotesk-Regular.woff2") format("woff2");
 }
 @font-face {
     font-family: 'AktivGrotesk Bold';
     font-style: normal;
     font-weight: normal;
-    src: url("https://raw.githubusercontent.com/syedhussainabbaszaidi/Font/main/AktivGrotesk-Bold.woff2") format("woff2");
+    src: url("https://raw.githubusercontent.com/syedhussainabbaszaidi/Font/main/AktivGrotesk/AktivGrotesk-Bold.woff2") format("woff2");
 }
 @font-face {
     font-family: 'AktivGrotesk Light';
     font-style: normal;
     font-weight: normal;
-    src: url("https://raw.githubusercontent.com/syedhussainabbaszaidi/Font/main/AktivGrotesk-Light.woff2") format("woff2");
+    src: url("https://raw.githubusercontent.com/syedhussainabbaszaidi/Font/main/AktivGrotesk/AktivGrotesk-Light.woff2") format("woff2");
 }
 @font-face {
     font-family: 'AktivGrotesk Medium';
     font-style: normal;
     font-weight: normal;
-    src: url("https://raw.githubusercontent.com/syedhussainabbaszaidi/Font/main/AktivGrotesk-Medium.woff2") format("woff2");
+    src: url("https://raw.githubusercontent.com/syedhussainabbaszaidi/Font/main/AktivGrotesk/AktivGrotesk-Medium.woff2") format("woff2");
 }
 @font-face {
     font-family: 'AktivGrotesk Thin';
     font-style: normal;
     font-weight: normal;
-    src: url("https://raw.githubusercontent.com/syedhussainabbaszaidi/Font/main/AktivGrotesk-Thin.woff2") format("woff2");
+    src: url("https://raw.githubusercontent.com/syedhussainabbaszaidi/Font/main/AktivGrotesk/AktivGrotesk-Thin.woff2") format("woff2");
 }
